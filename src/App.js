@@ -17,7 +17,6 @@ import Website from './Website';
 function App() {
   return (
     <>
-    {/* <Website></Website> */} 
       <Router>
         <Switch>
           <Route path="/qa">
